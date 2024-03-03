@@ -1,2 +1,2 @@
 # .github
-Thoughtful Maps 
+thoughtful-maps .github repository.
