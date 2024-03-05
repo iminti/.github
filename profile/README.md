@@ -1,2 +1,2 @@
-# Thoughtful Maps
-Better maps for brighter future
+### Thoughtful Maps
+_"Better maps for **brighter future**"_
