@@ -1,2 +1,2 @@
-### Thoughtful Maps
-_"Better maps for **brighter future**"_
+### iminti
+_"Fresh*er* tech for **brighter future**"_
