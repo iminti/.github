@@ -1,2 +1,2 @@
 ### iminti
-_"Fresh*er* tech for **brighter future**"_
+_Fresher tech for **brighter future**_
